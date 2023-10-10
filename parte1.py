@@ -1,5 +1,6 @@
 import numpy as np 
 from datasets import load_dataset
+import pandas as pd
 
 dataset = load_dataset('mstz/heart_failure')
 
